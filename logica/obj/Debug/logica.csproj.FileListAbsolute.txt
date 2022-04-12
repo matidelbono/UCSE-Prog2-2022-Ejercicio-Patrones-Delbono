@@ -1,0 +1,2 @@
+C:\Users\Usuario\source\repos\Ejercicio Patrones -1\logica\obj\Debug\logica.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio Patrones -1\logica\obj\Debug\logica.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\Usuario\source\repos\Ejercicio Patrones -1\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio Patrones -1\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
